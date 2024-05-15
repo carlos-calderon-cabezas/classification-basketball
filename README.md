@@ -22,7 +22,7 @@ En este proyecto, utilizamos un conjunto de datos que contiene el rendimiento de
 
 ## Agradecimientos
 
-Este proyecto fue realizado como parte del curso "Machine Learning with Python: A Practical Introduction" ofrecido por IBM en edX. Gracias a IBM y edX por proporcionar recursos de aprendizaje de calidad de gran utilidad para mi desarrollo profesional.
+Dedico esta sección para reconocer a IBM y edX por proporcionar recursos de aprendizaje de calidad de gran utilidad para mi desarrollo profesional.
 
 ## Contacto
 
